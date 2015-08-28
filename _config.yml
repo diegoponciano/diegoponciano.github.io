@@ -3,16 +3,17 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+highlighter: pygments
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Diego Ponciano
+tagline: Software, games, music
 author :
   name : Diego Ponciano
   email : me@diegoponciano.com
+  aboutme : diegoponciano
   github : diegoponciano
   twitter : diegoponci
 
